@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aslihankalyoncu
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in ML
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me aslihannkalyoncuu@gmail.com
 
