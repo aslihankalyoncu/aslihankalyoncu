@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Aslıhan
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Python
+- 💻 I'm focused on Data Science
 - 📫 How to reach me aslihannkalyoncuu@gmail.com
 
 <!---
